@@ -1,0 +1,22 @@
+<%-- any content can be specified here e.g.: --%>
+<%@page pageEncoding="UTF-8" %>
+<nav class="navbar navbar-expand-lg py-4">
+    <a class="nabar-brand" href="#"> P1 - POO</a>  
+    <button type="button">
+        
+    </button>
+    <div>
+        <ul class="navbar-nav">
+            <a href="index.jsp"> Inicio </a>
+        </ul>
+        <ul class="navbar-nav">
+            <a href="disciplinas.jsp"> Disciplinas do semestre </a>
+        </ul>
+        <ul class="navbar-nav">
+            <a href="sobre.jsp"> Sobre </a>
+        </ul>
+    </div>
+    
+    
+  
+</nav>
